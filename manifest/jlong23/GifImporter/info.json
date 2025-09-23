@@ -1,0 +1,16 @@
+{
+	"name": "GifImporter",
+	"id": "jlong23.GifImporter",
+	"description": "Converts gifs to a spritesheet then adds the appropriate components.",
+	"category": "Asset Importing",
+	"sourceLocation": "https://github.com/jlong23/GifImporter",
+	"versions": {
+		"1.2.2": {
+			"releaseUrl": "https://github.com/jlong23/GifImporter/releases/tag/1.2.2",
+			"artifacts": [{
+				"url": "https://github.com/jlong23/GifImporter/releases/download/1.2.2/GifImporter.dll",
+				"sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+			}]
+		}
+	}
+}
